@@ -53,6 +53,3 @@
 - 🔗 **GitHub:** [jit02git](https://github.com/jit02git)  
 - 🐦 **Twitter:** [@blessed15aug](https://x.com/blessed15aug?t=D3UPS9YWcoQuX8wwVR0NAg&s=08)
 
-### 
-
-<img src="https://raw.githubusercontent.com/jit02git/jit02git/output/snake.svg" alt="Snake animation" />
