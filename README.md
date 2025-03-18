@@ -53,3 +53,4 @@
 - 🔗 **GitHub:** [jit02git](https://github.com/jit02git)  
 - 🐦 **Twitter:** [@blessed15aug](https://x.com/blessed15aug?t=D3UPS9YWcoQuX8wwVR0NAg&s=08)
 
+🚀 Open to collaboration on impactful projects! Let’s connect to discuss technology, innovation, and building scalable solutions together.
