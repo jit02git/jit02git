@@ -51,7 +51,8 @@
 
 - 📧 **Email:** jitesh15cs@gmail.com  
 - 🌐 **Portfolio:** [jitesh-dev.vercel.app](https://jitesh-dev.vercel.app)  
-- 💼 **LinkedIn:** [Jitesh Kumar](https://www.linkedin.com/in/jitesh-kumar-409b49209/)  
+- 💼 **LinkedIn:** [Jitesh Kumar](https://www.linkedin.com/in/jitesh-kumar-409b49209/)
+- 🏆 **HackerRank:** [jitesh02sep](https://www.hackerrank.com/profile/jitesh02sep) 
 - 🧑‍💻 **GitHub:** [jit02git](https://github.com/jit02git)  
 - 🐦 **Twitter:** [@blessed15aug](https://x.com/blessed15aug?t=D3UPS9YWcoQuX8wwVR0NAg&s=08)
 
