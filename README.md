@@ -39,7 +39,7 @@
 
 ### 💪 Services I Provide
 
-- ✅ **Web App Development** – React, Next.js, Angular, or your preferred stack  
+- ✅ **Web App Development** – React, Next.js, Vue.js, or your preferred stack  
 - ✅ **Backend Development** – Scalable APIs using Node.js & Express.js  
 - ✅ **Database Design & Optimization** – SQL (MySQL, PostgreSQL) & NoSQL (MongoDB, Redis)  
 - ✅ **Code Refactoring & Performance Optimization**  
